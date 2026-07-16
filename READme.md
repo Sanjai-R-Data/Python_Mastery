@@ -63,7 +63,7 @@ This repository documents my progress as I master Python through:
 
 | Level | Status |
 |---------|--------|
-| Fundamentals | ⏳ |
+| Fundamentals | ✅ |
 | Control Flow | ⏳ |
 | Functions | ⏳ |
 | Data Structures | ⏳ |
